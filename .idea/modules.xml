@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DarrenLibrary.iml" filepath="$PROJECT_DIR$/DarrenLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clickablerecyclerviewadapter/clickablerecyclerviewadapter.iml" filepath="$PROJECT_DIR$/clickablerecyclerviewadapter/clickablerecyclerviewadapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/havemaxbytesedittext/havemaxbytesedittext.iml" filepath="$PROJECT_DIR$/havemaxbytesedittext/havemaxbytesedittext.iml" />
+      <module fileurl="file://$PROJECT_DIR$/splashhelper/splashhelper.iml" filepath="$PROJECT_DIR$/splashhelper/splashhelper.iml" />
+    </modules>
+  </component>
+</project>
